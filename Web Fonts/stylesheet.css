@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Bold.eot');
+    src: url('NOVA-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Bold.woff2') format('woff2'),
+        url('NOVA-Bold.woff') format('woff'),
+        url('NOVA-Bold.svg#NOVA-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Medium.eot');
+    src: url('NOVA-Medium.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Medium.woff2') format('woff2'),
+        url('NOVA-Medium.woff') format('woff'),
+        url('NOVA-Medium.svg#NOVA-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-MediumItalic.eot');
+    src: url('NOVA-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-MediumItalic.woff2') format('woff2'),
+        url('NOVA-MediumItalic.woff') format('woff'),
+        url('NOVA-MediumItalic.svg#NOVA-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-BoldItalic.eot');
+    src: url('NOVA-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-BoldItalic.woff2') format('woff2'),
+        url('NOVA-BoldItalic.woff') format('woff'),
+        url('NOVA-BoldItalic.svg#NOVA-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA Book';
+    src: url('NOVA-Book.eot');
+    src: url('NOVA-Book.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Book.woff2') format('woff2'),
+        url('NOVA-Book.woff') format('woff'),
+        url('NOVA-Book.svg#NOVA-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Light.eot');
+    src: url('NOVA-Light.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Light.woff2') format('woff2'),
+        url('NOVA-Light.woff') format('woff'),
+        url('NOVA-Light.svg#NOVA-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Italic.eot');
+    src: url('NOVA-Italic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Italic.woff2') format('woff2'),
+        url('NOVA-Italic.woff') format('woff'),
+        url('NOVA-Italic.svg#NOVA-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-BlackItalic.eot');
+    src: url('NOVA-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-BlackItalic.woff2') format('woff2'),
+        url('NOVA-BlackItalic.woff') format('woff'),
+        url('NOVA-BlackItalic.svg#NOVA-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Black.eot');
+    src: url('NOVA-Black.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Black.woff2') format('woff2'),
+        url('NOVA-Black.woff') format('woff'),
+        url('NOVA-Black.svg#NOVA-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-LightItalic.eot');
+    src: url('NOVA-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-LightItalic.woff2') format('woff2'),
+        url('NOVA-LightItalic.woff') format('woff'),
+        url('NOVA-LightItalic.svg#NOVA-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA Book';
+    src: url('NOVA-BookItalic.eot');
+    src: url('NOVA-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-BookItalic.woff2') format('woff2'),
+        url('NOVA-BookItalic.woff') format('woff'),
+        url('NOVA-BookItalic.svg#NOVA-BookItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Regular.eot');
+    src: url('NOVA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Regular.woff2') format('woff2'),
+        url('NOVA-Regular.woff') format('woff'),
+        url('NOVA-Regular.svg#NOVA-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-ThinItalic.eot');
+    src: url('NOVA-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-ThinItalic.woff2') format('woff2'),
+        url('NOVA-ThinItalic.woff') format('woff'),
+        url('NOVA-ThinItalic.svg#NOVA-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NOVA';
+    src: url('NOVA-Thin.eot');
+    src: url('NOVA-Thin.eot?#iefix') format('embedded-opentype'),
+        url('NOVA-Thin.woff2') format('woff2'),
+        url('NOVA-Thin.woff') format('woff'),
+        url('NOVA-Thin.svg#NOVA-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
