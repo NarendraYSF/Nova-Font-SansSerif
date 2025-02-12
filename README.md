@@ -41,7 +41,7 @@ body {
 Simply select *Nova* from your font list in applications like Photoshop, Illustrator, Word, etc.
 
 ## Demo
-Check out a live demo of the Nova font in action: [Nova Font Demo](https://yourdemo.example.com)
+Check out a live demo of the Nova font in action: [Nova Font Demo](https://novafont-demo.netlify.app/)
 
 ## License
 Nova is distributed under the [SIL Open Font License](https://scripts.sil.org/OFL), meaning you can use, modify, and distribute it freely.
